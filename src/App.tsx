@@ -1,8 +1,8 @@
 import React from 'react'
-import DropdownList from './components/dropdown/DropdownList'
+import DropdownListWithPortal from './components/dropdown/DropdownListPortral'
 
 function App() {
-  return <DropdownList />
+  return <DropdownListWithPortal />
 }
 
 export default App
